@@ -32,6 +32,7 @@ Link to YouTube Video I watched - https://www.youtube.com/watch?v=if4i55JB58M
 If your play is a low budget play your max fundraising goal should not exceed $5,000 or your success rate starts to drop off.$0 to $5,000 plays seems to have a similar success rate as those plays set between $35,000 thru $45,000. As you drill into the data you’ll see only 1% of all plays fall into the $35K thru $45K range. While 76% of all successful plays where $5K on less. Plays set $5K and below also saw 75% success rate while those $35K thru $45K saw 67% success rate.
 
 - What are some limitations of this dataset?
-
+A few limitations with this data set is you don’t see how many backers supported the plays at the throughout the year and at each fundraising price point. It also doesn’t break out the plays by county or geographic region. This could be important details to gauge where to focus your time promoting your play to the right audience of investors. It would also help direct you to the best countries and geographic locations that are the best fit for your play.
 
 - What are some other possible tables and/or graphs that we could create?
+It would be good to use a geographic heat map to show both where to promote your play to attract investors and where your target audience population lives. This would be two important factors when deciding what play and where to have your show. It would also be good to look at the subcategories to see how that impacts your launch date and fundraising goals.
