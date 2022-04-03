@@ -24,9 +24,10 @@ Link to YouTube Video I watched - https://www.youtube.com/watch?v=if4i55JB58M
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. The first conclusion is that if you look by month with all years combined the data would suggest that you should launch your play mid- spring through mid-summer May, June & July. These three months have the highest success rate. While October, November & December you see the lowest success rates. This would be due to a couple factors. It being winter and there is major holiday in each month that consumes a lot of peoples time and money. 
 
-2.  the second conclusions is very few plays get canceled. There is also little swings by month for failed plays when you look at the trend line over the course of the year. So it would be good to plan you launch in May, June, July months and take a deep dive into which types of plays are driving the high success rate for those months.
+The first conclusion is that if you look by month with all years combined the data would suggest that you should launch your play mid- spring through mid-summer May, June & July. These three months have the highest success rate. While October, November & December you see the lowest success rates. This would be due to a couple factors. It being winter and there is major holiday in each month that consumes a lot of peoples time and money. 
+
+The second conclusions is very few plays get canceled. There is also little swings by month for failed plays when you look at the trend line over the course of the year. So it would be good to plan you launch in May, June, July months and take a deep dive into which types of plays are driving the high success rate for those months.
 
 - What can you conclude about the Outcomes based on Goals?
 
