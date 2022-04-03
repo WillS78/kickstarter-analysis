@@ -28,9 +28,8 @@ Link to YouTube Video I watched - https://www.youtube.com/watch?v=if4i55JB58M
 
 2.  the second conclusions is very few plays get canceled. There is also little swings by month for failed plays when you look at the trend line over the course of the year. So it would be good to plan you launch in May, June, July months and take a deep dive into which types of plays are driving the high success rate for those months.
 
-
 - What can you conclude about the Outcomes based on Goals?
-
+If your play is a low budget play your max fundraising goal should not exceed $5,000 or your success rate starts to drop off.$0 to $5,000 plays seems to have a similar success rate as those plays set between $35,000 thru $45,000. As you drill into the data you’ll see only 1% of all plays fall into the $35K thru $45K range. While 76% of all successful plays where $5K on less. Plays set $5K and below also saw 75% success rate while those $35K thru $45K saw 67% success rate.
 
 - What are some limitations of this dataset?
 
