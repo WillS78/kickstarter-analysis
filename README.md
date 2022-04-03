@@ -18,7 +18,7 @@ The goal is to use the data to identify what worked well, what were the opportun
 
 
 ### Challenges and Difficulties Encountered
-
+For me my greatest challenge was not over thinking my countIf formulas. My first approach I was trying to build a long and complicated formula. After some google searching and looking though my Excel books at home I was able to simplify my approach and finalize the formulas. Then it allowed me to cross reference what my data set produce to what was in our class Module 1 Kickstarter assignment instructions. 
 
 ## Results
 
