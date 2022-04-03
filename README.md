@@ -10,9 +10,11 @@ The goal is to use the data to identify what worked well, what were the opportun
 
 
 ### Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/101777677/161442717-54777913-2477-4a4d-8121-266a2a0a7b54.png)
 
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/101777677/161442683-3060571d-08da-431a-986c-dbb1ee554996.png)
 
 
 ### Challenges and Difficulties Encountered
